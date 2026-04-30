@@ -148,15 +148,6 @@ For a complete requirement-by-requirement implementation and test mapping, see:
 
 - docs/requirements-traceability.md
 
-For a one-page PDF-ready submission narrative, see:
-
-- docs/pdf-submission-summary.md
-
-## Submission note
-
-Before submitting the final PDF, replace the placeholder repository URL with your actual GitHub link if needed and export the completed report as:
-
-`Full Name - Infrastructure / SRE Intern Intern Assignment.pdf`
 =======
 # Incident-Management-System-IMS-
 >>>>>>> be87adc3049809fb75276adffa957b7c37f73bb1
