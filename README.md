@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Incident Management System (IMS)
 
 Mission-Critical Incident Management System for Zeotap's Infrastructure / SRE internship assignment.
@@ -156,3 +157,6 @@ For a one-page PDF-ready submission narrative, see:
 Before submitting the final PDF, replace the placeholder repository URL with your actual GitHub link if needed and export the completed report as:
 
 `Full Name - Infrastructure / SRE Intern Intern Assignment.pdf`
+=======
+# Incident-Management-System-IMS-
+>>>>>>> be87adc3049809fb75276adffa957b7c37f73bb1
