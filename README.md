@@ -149,5 +149,3 @@ For a complete requirement-by-requirement implementation and test mapping, see:
 - docs/requirements-traceability.md
 
 =======
-# Incident-Management-System-IMS-
->>>>>>> be87adc3049809fb75276adffa957b7c37f73bb1
