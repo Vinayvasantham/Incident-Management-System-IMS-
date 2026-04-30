@@ -1,0 +1,32 @@
+[
+  {
+    "component_id": "RDBMS_PRIMARY",
+    "component_type": "RDBMS",
+    "message": "Primary database connection timeout",
+    "source": "sample-stream",
+    "payload": {
+      "error_code": "DB_CONN_TIMEOUT",
+      "region": "ap-south-1"
+    }
+  },
+  {
+    "component_id": "RDBMS_PRIMARY",
+    "component_type": "RDBMS",
+    "message": "Connection pool exhausted",
+    "source": "sample-stream",
+    "payload": {
+      "error_code": "POOL_EXHAUSTED",
+      "region": "ap-south-1"
+    }
+  },
+  {
+    "component_id": "MCP_HOST_02",
+    "component_type": "MCP_HOST",
+    "message": "MCP host health probe failed",
+    "source": "sample-stream",
+    "payload": {
+      "error_code": "HEALTHCHECK_FAILED",
+      "region": "eu-west-1"
+    }
+  }
+]
